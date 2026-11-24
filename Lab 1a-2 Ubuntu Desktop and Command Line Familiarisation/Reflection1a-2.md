@@ -70,9 +70,10 @@ comparing my public and private ip, my private ip shown though "ip a" was 10.0.2
 
 Part 5's commands showed the hardware specs
 
-![imgsrc](../Screenshots/1a-2CLIouputvsSettings)
+![imgsrc](../Screenshots/1a-2CLIouputvsSettings.png)
 
 Part 6 was about installing and updating software.
 
 ##Reflection
+
 Using CLI has made me understand the type of OS linux is more. There are many commands to be able to do a large variety of things, and i believe that if someone knew the system well, they could have a higher level of customization than other OS like windows. Although not using the common GUI is less intuitive, for server management, i can understand the need for CLI instead, to prevent unnecessary bloat.
