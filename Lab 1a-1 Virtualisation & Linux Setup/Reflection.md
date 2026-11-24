@@ -8,4 +8,10 @@ Whilst choosing the downloads, i was unsure what ARM 64-bit architecture was for
 
 At first, while setting up the VirtualBox, i had configured the settings at 4GB RAM and 20GB disk. However, the VM was stuck on the installation process for afew hours. When i rebooted it to retry the installation of Ubuntu, i increased the RAM to 8GB and it seemed to process the installation quicker.
 
+![imgsrc](../Screenshots/1a-1_VM_settings.png)
+
+Finally got it to work.
+
+![imgsrc](../Screenshots/1a-1_Screenshot_of_Ubuntu_desktop.png)
+
 To install guest additions to enable display resizing and clipboard sharing, I was originally blocked from doing so as i had to install a program called bzip2 tar. I followed some instructions online to run the necessary code and rebooted the VM to make it work.
