@@ -14,4 +14,6 @@ Finally got it to work.
 
 ![imgsrc](../Screenshots/1a-1_Screenshot_of_Ubuntu_desktop.png)
 
-To install guest additions to enable display resizing and clipboard sharing, I was originally blocked from doing so as i had to install a program called bzip2 tar. I followed some instructions online to run the necessary code and rebooted the VM to make it work.
+To install guest additions to enable display resizing and clipboard sharing, I was originally blocked from doing so as i had to install a program called bzip2 tar. I followed some instructions online to run the necessary code and rebooted the VM to make it work. Having the shared clipboard is VERY helpful.
+
+![imgsrc](../Screenshots/1a-1_Error_Installing_guest_additions.png)
