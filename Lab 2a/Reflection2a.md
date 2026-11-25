@@ -14,10 +14,10 @@ Pricing for cloud aws as shown:
 
 A 3 year baseline cost comparison was made with the following results:
 
-| Cost Component | On-Premise: Supermicro AS-1015A-MT-01-G2 | Cloud: AWS `c6g.4xlarge` (3-Yr Compute Savings Plan) | Cloud: AWS `c6g.4xlarge` (On-Demand, 100% Util.) |
+| Cost Component | On-Premise: Supermicro AS-1015A-MT-01-G2 | Cloud: AWS c6g.4xlarge (3-Yr Compute Savings Plan) | Cloud: AWS c6g.4xlarge (On-Demand, 100% Util.) |
 | :--- | :--- | :--- | :--- |
 | **Upfront Cost (CapEx)** | **$5,690.20** | **$0.00** | **$0.00** |
-| **Monthly Recurring (OpEx)** | $0.00 *(hardware)* | **$234.55 / mo** | **$457.86 / mo** (`$0.6272/hr`) |
+| **Monthly Recurring (OpEx)** | $0.00 *(hardware)* | **$234.55 / mo** | **$457.86 / mo** ($0.6272/hr) |
 | **Year 1 Total** | $5,690.20 | $2,814.60 | $5,494.32 |
 | **Year 2 Total (Cumulative)** | $5,690.20 | $5,629.20 | $10,988.64 |
 | **Year 3 Total (Cumulative)** | **$5,690.20** | **$8,443.80** | **$16,482.96** |
