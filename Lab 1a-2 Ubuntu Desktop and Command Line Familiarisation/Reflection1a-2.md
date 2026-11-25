@@ -1,4 +1,4 @@
-# ISEA-Lab Reflection 1a-1
+# ISEA-Lab Reflection 1a-2
 ## Lab Objective
 Objective was to go through linux GUI and commands
 ##Following the lab
